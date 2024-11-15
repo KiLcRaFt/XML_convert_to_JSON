@@ -539,15 +539,4 @@
 			<toopaev_lopp>20:59</toopaev_lopp>
 		</igapaevased_andmed>
 	</Tootaja>
-	<Tootaja>
-		<id>50</id>
-		<nimi-perenimi>Martin Brandin</nimi-perenimi>
-		<amet>Food Chemist</amet>
-		<palk>€703,93</palk>
-		<igapaevased_andmed>
-			<kuupaev>12/11/2024</kuupaev>
-			<toopaev_algus>19:11</toopaev_algus>
-			<toopaev_lopp>16:47</toopaev_lopp>
-		</igapaevased_andmed>
-	</Tootaja>
 </Kompaania>

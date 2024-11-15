@@ -538,17 +538,6 @@
                 "toopaev_algus": "16:00",
                 "toopaev_lopp": "20:59"
             }
-        },
-        {
-            "id": "50",
-            "nimi-perenimi": "Martin Brandin",
-            "amet": "Food Chemist",
-            "palk": "\u20ac703,93",
-            "igapaevased_andmed": {
-                "kuupaev": "12/11/2024",
-                "toopaev_algus": "19:11",
-                "toopaev_lopp": "16:47"
-            }
         }
     ]
 }
