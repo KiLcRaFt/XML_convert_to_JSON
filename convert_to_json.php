@@ -16,5 +16,5 @@ if (file_exists($xmlFile)) {
     header('Content-type: application/json');
     echo $json;
 } else {
-    exit('Не удалось открыть Kompaania.xml.');
+    exit('Ei saa ava Kompaania.xml.');
 }
